@@ -1,0 +1,19 @@
+
+.custom {
+    font-size: 80px;
+    font-weight: bolder;
+}
+
+p{
+    font-size: 35px;
+}
+
+button{
+    padding: 30px 60px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover{
+    background-color: #008000;
+}
